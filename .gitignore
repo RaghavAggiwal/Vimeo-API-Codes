@@ -1,2 +1,9 @@
+#config file with credentials
 **/vimeo_config_english.json
-results/
+
+#results written by code
+results/*
+
+#py cache
+*.pyc
+__pycache__
